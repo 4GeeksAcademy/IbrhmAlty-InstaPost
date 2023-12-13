@@ -1,0 +1,45 @@
+.square_1 {
+    display: flex;
+    padding-left: 30%;
+    margin-top: 5px;
+    padding-top: 2px;
+    
+ 
+  }
+
+  .square{
+    width: 500px;
+    height: 500px;
+  }
+
+  .post_header{
+
+    display: flex;
+  }
+   span.post_title{
+    text-align: left;
+   font-weight: bold;
+   width: 199px;
+  }
+
+  span.post_date{
+    text-align: right;
+    padding-left: 250px;
+
+  }
+   
+.likes{
+    text-align: left;
+}
+
+.post_likes{
+    display: flex;
+    text-align: left;
+}
+
+.post_comment{
+    display: flex;
+    text-align: left;
+}
+
+
